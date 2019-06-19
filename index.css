@@ -1,0 +1,238 @@
+.box {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    background-color: #ffffff;
+    width: 375px;
+    height: 2413px;
+}
+
+.box .hd {
+    width: 375px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    background: -webkit-gradient(linear, center top, center bottom, from(#5670D4), to(#528CD9));
+    height: 550px;
+}
+
+.box .layerWrap {
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-direction: column;
+    width: 375px;
+    height: 520px;
+}
+
+.box .layer {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 375px;
+    height: 520px;
+}
+
+.box .buttonBg {
+    position: relative;
+    margin-top: 35px;
+    margin-left: 8px;
+    width: 320px;
+    height: 145px;
+}
+
+.box .actionBg {
+    position: relative;
+    margin-top: 23px;
+    margin-left: 30px;
+    width: 164px;
+    height: 52px;
+}
+
+.box .link1 {
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 30px;
+    width: 164px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    //background-color: aqua;
+}
+
+.box .main {
+    margin-top: 40px;
+    margin-left: 143px;
+    max-width: 219px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #528cd9;
+    font-size: 22px;
+    font-weight: 600;
+    lines: 1;
+    line-height: 30px;
+}
+
+.box .submain {
+    margin-top: 8px;
+    margin-left: 91px;
+    max-width: 271px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #666666;
+    font-size: 16px;
+    font-weight: 400;
+    lines: 1;
+    line-height: 22px;
+}
+
+.box .row {
+    margin-top: 30px;
+    margin-left: 29.5px;
+    width: 315px;
+    height: 280px;
+}
+
+.box .row1 {
+    margin-top: 50px;
+    width: 375px;
+    height: 1px;
+}
+
+.box .row2 {
+    margin-top: 40px;
+    margin-left: 121px;
+    max-width: 241px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #528cd9;
+    font-size: 22px;
+    font-weight: 600;
+    lines: 1;
+    line-height: 30px;
+}
+
+.box .row3 {
+    margin-top: 8px;
+    margin-left: 91px;
+    max-width: 271px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #666666;
+    font-size: 16px;
+    font-weight: 400;
+    lines: 1;
+    line-height: 22px;
+}
+
+.box .row4 {
+    margin-top: 30px;
+    margin-left: 29.5px;
+    width: 315px;
+    height: 280px;
+}
+
+.box .row5 {
+    margin-top: 50px;
+    width: 375px;
+    height: 1px;
+}
+
+.box .row6 {
+    margin-top: 40px;
+    margin-left: 143px;
+    max-width: 219px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #528cd9;
+    font-size: 22px;
+    font-weight: 600;
+    lines: 1;
+    line-height: 30px;
+}
+
+.box .row7 {
+    margin-top: 8px;
+    margin-left: 83px;
+    max-width: 279px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #666666;
+    font-size: 16px;
+    font-weight: 400;
+    lines: 1;
+    line-height: 22px;
+}
+
+.box .row8 {
+    margin-top: 30px;
+    margin-left: 29.5px;
+    width: 315px;
+    height: 280px;
+}
+
+.box .row9 {
+    margin-top: 50px;
+    width: 375px;
+    height: 1px;
+}
+
+.box .row10 {
+    margin-top: 40px;
+    margin-left: 132px;
+    max-width: 230px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #528cd9;
+    font-size: 22px;
+    font-weight: 600;
+    lines: 1;
+    line-height: 30px;
+}
+
+.box .row11 {
+    margin-top: 8px;
+    margin-left: 115px;
+    max-width: 247px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #666666;
+    font-size: 16px;
+    font-weight: 400;
+    lines: 1;
+    line-height: 22px;
+}
+
+.box .bt {
+    width: 375px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    height: 120px;
+}
+
+.box .row12 {
+    margin-top: 30px;
+    margin-left: 29.5px;
+    width: 315px;
+    height: 190px;
+}
+
+.box .ft {
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 77.5px;
+    width: 219px;
+    height: 73px;
+}
+
+.box .link2 {
+    position: relative;
+    margin-top: 30px;
+    margin-left: 77.5px;
+    width: 219px;
+    height: 55px;
+    text-align: center;
+    line-height: 50px;
+    //background-color: aqua;
+}
