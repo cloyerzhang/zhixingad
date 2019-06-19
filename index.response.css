@@ -1,0 +1,217 @@
+.box {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    background-color: #ffffff;
+    width: 50vw;
+    height: 2413px;
+}
+
+.box .hd {
+    ori_width: 750;
+    width: 50vw;
+    ori_height: 1100;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    background-color: #5481d7;
+    height: 550px;
+}
+
+.box .layerWrap {
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-direction: column;
+    width: 50vw;
+    height: 520px;
+}
+
+.box .layer {
+    position: absolute;
+    top: 0px;
+    left: 0vw;
+    width: 50vw;
+    height: 520px;
+}
+
+.box .buttonBg {
+    position: relative;
+    margin-top: 35px;
+    margin-left: 1.07vw;
+    width: 42.67vw;
+    height: 145px;
+}
+
+.box .actionBg {
+    position: relative;
+    margin-top: 23px;
+    margin-left: 4vw;
+    width: 21.87vw;
+    height: 52px;
+}
+
+.box .main {
+    margin-top: 40px;
+    margin-left: 19.07vw;
+    max-width: 29.2vw;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    lines: 1;
+    line-height: 30px;
+    white-space: pre;
+    color: #528cd9;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.box .submain {
+    margin-top: 8px;
+    margin-left: 12.13vw;
+    max-width: 36.13vw;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    lines: 1;
+    line-height: 22px;
+    white-space: pre;
+    color: #666666;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.box .row {
+    margin-top: 30px;
+    margin-left: 3.93vw;
+    width: 42vw;
+    height: 280px;
+}
+
+.box .row1 {
+    margin-top: 50px;
+    width: 50vw;
+    height: 1px;
+}
+
+.box .row2 {
+    margin-top: 40px;
+    margin-left: 16.13vw;
+    max-width: 32.13vw;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    lines: 1;
+    line-height: 30px;
+    white-space: pre;
+    color: #528cd9;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.box .row3 {
+    margin-top: 8px;
+    margin-left: 12.13vw;
+    max-width: 36.13vw;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    lines: 1;
+    line-height: 22px;
+    white-space: pre;
+    color: #666666;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.box .row4 {
+    margin-top: 30px;
+    margin-left: 3.93vw;
+    width: 42vw;
+    height: 280px;
+}
+
+.box .row5 {
+    margin-top: 50px;
+    width: 50vw;
+    height: 1px;
+}
+
+.box .row6 {
+    margin-top: 40px;
+    margin-left: 19.07vw;
+    max-width: 29.2vw;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    lines: 1;
+    line-height: 30px;
+    white-space: pre;
+    color: #528cd9;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.box .row7 {
+    margin-top: 8px;
+    margin-left: 11.07vw;
+    max-width: 37.2vw;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    lines: 1;
+    line-height: 22px;
+    white-space: pre;
+    color: #666666;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.box .row8 {
+    margin-top: 30px;
+    margin-left: 3.93vw;
+    width: 42vw;
+    height: 280px;
+}
+
+.box .row9 {
+    margin-top: 50px;
+    width: 50vw;
+    height: 1px;
+}
+
+.box .row10 {
+    margin-top: 40px;
+    margin-left: 17.6vw;
+    max-width: 30.67vw;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    lines: 1;
+    line-height: 30px;
+    white-space: pre;
+    color: #528cd9;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.box .row11 {
+    margin-top: 8px;
+    margin-left: 15.33vw;
+    max-width: 32.93vw;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    lines: 1;
+    line-height: 22px;
+    white-space: pre;
+    color: #666666;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.box .row12 {
+    margin-top: 30px;
+    margin-left: 3.93vw;
+    width: 42vw;
+    height: 190px;
+}
+
+.box .ft {
+    margin-top: 30px;
+    margin-left: 10.33vw;
+    width: 29.2vw;
+    height: 73px;
+}

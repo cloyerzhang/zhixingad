@@ -1,0 +1,211 @@
+/* 视觉稿宽度为 750, 请设置html的font-size为 37.5px, 以便在布局视口宽度为 375 的页面中自适应 */
+
+.box {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    background-color: #ffffff;
+    width: 5rem;
+    height: 35rem;
+}
+
+.hd {
+    ori_width: 10rem;
+    width: 5rem;
+    ori_height: 14.67rem;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    background-color: #5481d7;
+    height: 7.33rem;
+}
+
+.layerWrap {
+    s display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-direction: column;
+    width: 5rem;
+    height: 6.93rem;
+}
+
+.layer {
+    position: absolute;
+    top: 0rem;
+    left: 0rem;
+    width: 5rem;
+    height: 6.93rem;
+}
+
+.buttonBg {
+    position: relative;
+    margin-top: 0.47rem;
+    margin-left: 0.11rem;
+    width: 4.27rem;
+    height: 1.93rem;
+}
+
+.actionBg {
+    position: relative;
+    margin-top: 0.31rem;
+    margin-left: 0.4rem;
+    width: 2.19rem;
+    height: 0.69rem;
+}
+
+.main {
+    margin-top: 0.53rem;
+    margin-left: 1.91rem;
+    max-width: 2.92rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #528cd9;
+    font-size: 22px;
+    font-weight: 600;
+    lines: 1;
+    line-height: 0.4rem;
+}
+
+.submain {
+    margin-top: 0.11rem;
+    margin-left: 1.21rem;
+    max-width: 3.61rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #666666;
+    font-size: 16px;
+    font-weight: 400;
+    lines: 1;
+    line-height: 0.29rem;
+}
+
+.row {
+    margin-top: 0.4rem;
+    margin-left: 0.39rem;
+    width: 4.2rem;
+    height: 3.73rem;
+}
+
+.row1 {
+    margin-top: 0.67rem;
+    width: 5rem;
+    height: 1px;
+}
+
+.row2 {
+    margin-top: 0.53rem;
+    margin-left: 1.61rem;
+    max-width: 3.21rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #528cd9;
+    font-size: 22px;
+    font-weight: 600;
+    lines: 1;
+    line-height: 0.4rem;
+}
+
+.row3 {
+    margin-top: 0.11rem;
+    margin-left: 1.21rem;
+    max-width: 3.61rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #666666;
+    font-size: 16px;
+    font-weight: 400;
+    lines: 1;
+    line-height: 0.29rem;
+}
+
+.row4 {
+    margin-top: 0.4rem;
+    margin-left: 0.39rem;
+    width: 4.2rem;
+    height: 3.73rem;
+}
+
+.row5 {
+    margin-top: 0.67rem;
+    width: 5rem;
+    height: 1px;
+}
+
+.row6 {
+    margin-top: 0.53rem;
+    margin-left: 1.91rem;
+    max-width: 2.92rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #528cd9;
+    font-size: 22px;
+    font-weight: 600;
+    lines: 1;
+    line-height: 0.4rem;
+}
+
+.row7 {
+    margin-top: 0.11rem;
+    margin-left: 1.11rem;
+    max-width: 3.72rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #666666;
+    font-size: 16px;
+    font-weight: 400;
+    lines: 1;
+    line-height: 0.29rem;
+}
+
+.row8 {
+    margin-top: 0.4rem;
+    margin-left: 0.39rem;
+    width: 4.2rem;
+    height: 3.73rem;
+}
+
+.row9 {
+    margin-top: 0.67rem;
+    width: 5rem;
+    height: 1px;
+}
+
+.row10 {
+    margin-top: 0.53rem;
+    margin-left: 1.76rem;
+    max-width: 3.07rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #528cd9;
+    font-size: 22px;
+    font-weight: 600;
+    lines: 1;
+    line-height: 0.4rem;
+}
+
+.row11 {
+    margin-top: 0.11rem;
+    margin-left: 1.53rem;
+    max-width: 3.29rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #666666;
+    font-size: 16px;
+    font-weight: 400;
+    lines: 1;
+    line-height: 0.29rem;
+}
+
+.row12 {
+    margin-top: 0.4rem;
+    margin-left: 0.39rem;
+    width: 4.2rem;
+    height: 2.53rem;
+}
+
+.ft {
+    margin-top: 0.4rem;
+    margin-left: 1.03rem;
+    width: 2.92rem;
+    height: 0.97rem;
+}
