@@ -1,12 +1,19 @@
 /* 视觉稿宽度为 750, 请设置html的font-size为 37.5px, 以便在布局视口宽度为 375 的页面中自适应 */
 
+@media screen and (max-width:1200px) and (min-width:320px) {
+    html,
+    body {
+        font-size: 195px !important;
+    }
+}
+
 .box {
     display: flex;
     align-items: flex-start;
     flex-direction: column;
     background-color: #ffffff;
     width: 5rem;
-    height: 35rem;
+    height: 32.17rem;
 }
 
 .hd {
@@ -21,7 +28,7 @@
 }
 
 .layerWrap {
-    s display: flex;
+    display: flex;
     position: relative;
     align-items: flex-start;
     flex-direction: column;
@@ -53,6 +60,17 @@
     height: 0.69rem;
 }
 
+.box .link1 {
+    position: absolute;
+    margin-top: 2.7rem;
+    margin-left: 0.4rem;
+    width: 2.19rem;
+    height: 0.69rem;
+    text-align: center;
+    line-height: 0.69rem;
+    //background-color: aqua;
+}
+
 .main {
     margin-top: 0.53rem;
     margin-left: 1.91rem;
@@ -60,7 +78,7 @@
     overflow: hidden;
     text-overflow: ellipsis;
     color: #528cd9;
-    font-size: 22px;
+    font-size: 0.3rem;
     font-weight: 600;
     lines: 1;
     line-height: 0.4rem;
@@ -73,7 +91,7 @@
     overflow: hidden;
     text-overflow: ellipsis;
     color: #666666;
-    font-size: 16px;
+    font-size: 0.21rem;
     font-weight: 400;
     lines: 1;
     line-height: 0.29rem;
@@ -99,7 +117,7 @@
     overflow: hidden;
     text-overflow: ellipsis;
     color: #528cd9;
-    font-size: 22px;
+    font-size: 0.3rem;
     font-weight: 600;
     lines: 1;
     line-height: 0.4rem;
@@ -112,7 +130,7 @@
     overflow: hidden;
     text-overflow: ellipsis;
     color: #666666;
-    font-size: 16px;
+    font-size: 0.21rem;
     font-weight: 400;
     lines: 1;
     line-height: 0.29rem;
@@ -138,7 +156,7 @@
     overflow: hidden;
     text-overflow: ellipsis;
     color: #528cd9;
-    font-size: 22px;
+    font-size: 0.3rem;
     font-weight: 600;
     lines: 1;
     line-height: 0.4rem;
@@ -151,7 +169,7 @@
     overflow: hidden;
     text-overflow: ellipsis;
     color: #666666;
-    font-size: 16px;
+    font-size: 0.21rem;
     font-weight: 400;
     lines: 1;
     line-height: 0.29rem;
@@ -177,7 +195,7 @@
     overflow: hidden;
     text-overflow: ellipsis;
     color: #528cd9;
-    font-size: 22px;
+    font-size: 0.3rem;
     font-weight: 600;
     lines: 1;
     line-height: 0.4rem;
@@ -190,10 +208,18 @@
     overflow: hidden;
     text-overflow: ellipsis;
     color: #666666;
-    font-size: 16px;
+    font-size: 0.21rem;
     font-weight: 400;
     lines: 1;
     line-height: 0.29rem;
+}
+
+.box .bt {
+    width: 5rem;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    height: 1.6rem;
 }
 
 .row12 {
@@ -204,8 +230,20 @@
 }
 
 .ft {
+    position: absolute;
     margin-top: 0.4rem;
     margin-left: 1.03rem;
     width: 2.92rem;
     height: 0.97rem;
+}
+
+.box .link2 {
+    position: relative;
+    margin-top: 0.45rem;
+    margin-left: 1.03rem;
+    width: 2.92rem;
+    height: 0.70rem;
+    text-align: center;
+    line-height: 0.5rem;
+    //background-color: aqua;
 }
